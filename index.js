@@ -75,22 +75,11 @@
 
 // console.log(myGreeting);
 
-
-
-
-
-
-
-
-
-
-let welcomeEl = document.getElementById("welcome-el");
-console.log(welcomeEl);
-let name = "ayman"
-let greeting = "hi"
-  welcomeEl.innerText = name +  greeting;
-
-
+// let welcomeEl = document.getElementById("welcome-el");
+// console.log(welcomeEl);
+// let name = "ayman"
+// let greeting = "hi"
+//   welcomeEl.innerText = name +  greeting;
 
 // let countEl = document.getElementById ("count-el");
 
@@ -106,3 +95,5 @@ let greeting = "hi"
 // function save(){
 //     console.log(count);
 // }
+
+
